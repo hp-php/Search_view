@@ -1,0 +1,2 @@
+rootProject.name = "Demo-6-Search_View"
+include ':app'
